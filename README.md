@@ -1,69 +1,32 @@
-Este é um quiz interativo desenvolvido em HTML e CSS com o objetivo de praticar conceitos de desenvolvimento web.
-O projeto contém diferentes tipos de perguntas, incluindo múltipla escolha, texto, senha, data, seleção múltipla, upload de arquivos e menu suspenso.
+# 🖥️ Quiz Interativo para Programadores
 
-Ele também inclui:
+## 🔹 Descrição
+Este é um **quiz interativo feito com HTML e CSS** para **praticar desenvolvimento web**.  
+O objetivo é testar conhecimentos em programação com perguntas de vários tipos:
 
-Uma tabela de pontuação para avaliação rápida.
+- Múltipla escolha  
+- Texto  
+- Senha  
+- Data  
+- Seleção múltipla (checkbox)  
+- Upload de arquivo  
+- Menu suspenso (`select`)
 
-Uma seção para verificar as respostas corretas.
+O projeto também inclui:
+- Tabela de pontuação  
+- Seção de respostas corretas (`<details>` / `<summary>`)  
+- Formulário de feedback  
+- Footer com links e ícones (GitHub, LinkedIn, e-mail)  
 
-Um formulário de feedback com informações de contato.
+> Criado como exercício de aprendizado, focando em **HTML, CSS e responsividade**.
 
-Footer com link para página “Sobre mim”.
+---
 
-Este projeto foi criado como exercício de aprendizado, focando em layout, formulários, tabelas, imagens e links.
+## 🛠 Tecnologias utilizadas
+- **HTML5** – estrutura da página  
+- **CSS3** – cores, tipografia e responsividade  
+- **Google Fonts** – fonte *Oswald*  
+- **Flexbox** – alinhamento e layout de seções  
 
-Tecnologias utilizadas
+---
 
-HTML5: estrutura das páginas e elementos interativos
-
-CSS3: estilização, cores, tipografia, responsividade (mobile)
-
-Google Fonts: fonte Oswald
-
-Flexbox: organização de seções e alinhamento de elementos
-
-Estrutura do projeto
-meu-quiz/
-│─ index.html           # Página principal do quiz
-│─ sobremim.html        # Página “Sobre mim”
-│─ style.css            # Estilos CSS compartilhados
-│─ imagens/             # (opcional) imagens usadas no quiz
-
-Funcionalidades
-
-Layout responsivo para mobile e desktop
-
-Perguntas interativas: rádio, checkbox, texto, senha, data, arquivo e select
-
-Visualização de respostas corretas com <details>
-
-Formulário de feedback com alerta simples de envio
-
-Footer estilizado com links e ícones (GitHub, LinkedIn, e-mail)
-
-Como usar
-
-Abra index.html em qualquer navegador.
-
-Responda às perguntas do quiz.
-
-Clique em “Clique aqui” para acessar a página “Sobre mim”.
-
-Envie seu feedback pelo formulário.
-
-OBS: Todos os links internos funcionam localmente desde que index.html, sobremim.html e style.css estejam na mesma pasta.
-
-Aprendizado
-
-Este projeto ajudou a consolidar:
-
-Criação de formularios e inputs variados
-
-Uso de tabelas e <details>
-
-Estrutura e estilização de páginas com CSS responsivo
-
-Organização de links internos e externos
-
-Boas práticas de layout e design simples
